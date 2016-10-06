@@ -144,3 +144,18 @@ sha: 036a405b3ada3318b8c577d130251d333818e424
 # parameter values
 servicePort: 1919
 
+####
+
+# editor info
+name: atomist-project-templates.spring-boot-common-editors.AddHystrix
+group: atomist-project-templates
+artifact: spring-boot-common-editors
+version: 1.0.1
+
+# backing git repo
+repo: git@github.com:russmiles/spring-boot-common-editors.git
+branch: master
+sha: b778ce166d1568c83d4e2be5ccf6f5e03706bf01
+
+# parameter values
+
